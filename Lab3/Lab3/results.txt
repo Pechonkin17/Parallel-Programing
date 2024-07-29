@@ -1,0 +1,17 @@
+Lab Work #3: Download and synchronization in OpenMP
+Student Group: KN-314
+Student's Full Name: Pechonkin Maksym Dmytrovych
+Variant Number: 18
+Task: Compute the integrals
+The beginning of the closed section with step size 2e-05
+Result of the first integral: 2.30525
+Result of the second integral: 0.00421611
+The end of the closed section with step size 2e-05
+The beginning of the closed section with step size 0.0001
+Result of the first integral: 2.30533
+Result of the second integral: 0.00421604
+The end of the closed section with step size 0.0001
+The beginning of the closed section with step size 5e-05
+Result of the first integral: 2.3053
+Result of the second integral: 0.00421617
+The end of the closed section with step size 5e-05
